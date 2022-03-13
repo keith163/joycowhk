@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jowcow",
+    "password": "A329851740a",
+    "database": "joycowhk",
+    "host": "184.168.112.105",
+    "dialect": "mysql"
+  },
+  "loaclhost": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
